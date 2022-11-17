@@ -146,10 +146,10 @@ input:focus {
 }
 
 .btn {
-  color: #fff;
+  color: rgb(88, 226, 8);
   border: 0;
   border-radius: 8px;
-  color: #fff;
+  color: rgb(235, 183, 13);
   width: 100px;
   height: 40px;
   cursor: pointer;
@@ -169,7 +169,7 @@ input:focus {
 }
 
 .btn:disabled {
-  background-color: #cccccc;
+  background-color: #c50000;
   color: #333;
   cursor: auto;
 }
